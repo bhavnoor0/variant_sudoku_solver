@@ -1,0 +1,11 @@
+# Anti-knight kropki 4x4 — "Intrduction to Anti-Knight" (Micheal Lefkowitz, 2020)
+# After the grid, list dots as: white/black r1 c1 r2 c2
+3 . . .
+. . . .
+. . . .
+. . . .
+
+KROPKI
+white 0 2 0 3
+black 2 0 3 0
+

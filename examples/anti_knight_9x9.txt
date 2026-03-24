@@ -1,0 +1,12 @@
+# Anti-knight 9x9
+# No two identical digits may be a knight's move apart.
+# Solve with: python main.py examples/anti_knight_9x9.txt --anti-knight
+. . . 5 . 7 . . .
+5 . . 2 3 . . . .
+. . 8 . . . 5 . .
+1 . . . 9 . . . 4
+. 3 4 . 6 . . . .
+. 5 . . . . 1 . .
+7 . 6 9 . . 3 4 .
+4 . 3 . . . 9 . .
+. 8 . . . . . . 2

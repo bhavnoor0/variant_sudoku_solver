@@ -1,0 +1,13 @@
+# Anti-king and anti-knight 9x9
+# No two identical digits may be a knight's or king's move apart.
+# Solve with: python main.py examples/anti_king_anti_knight_9x9.txt --anti-knight --anti-king
+
+. . . . . . . . .
+. . . . . . . . .
+. . . . . . . . .
+. . . . . . . . .
+. . . . . . . . .
+. . . . . . . . .
+. . . . . . . . .
+. . . . . . . . .
+. . . . . . . . .
