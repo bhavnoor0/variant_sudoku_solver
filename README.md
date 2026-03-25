@@ -25,10 +25,13 @@ python main.py examples/anti_knight_9x9.txt --anti-knight
 python main.py examples/standard_9x9.txt --anti-king
 
 # Both
-python main.py examples/standard_9x9.txt --anti-knight --anti-king
+python main.py examples/anti_king_anti_knight_9x9.txt --anti-knight --anti-king
 
 # Kropki dots defined in the file
 python main.py examples/kropki_4x4.txt --kropki
+
+# Kropki dots and anti-knight
+python main.py examples/anti_knight_kropki_4x4.txt --anti-knight --kropki
 ```
 
 ## Puzzle file format
